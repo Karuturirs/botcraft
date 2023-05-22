@@ -1,2 +1,2 @@
 # botcraft
-AI tool to help day to day written in Rust and ELM
+AI tool to help day to day tasks. Written in Rust and ELM
